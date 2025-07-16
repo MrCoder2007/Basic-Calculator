@@ -87,3 +87,15 @@ button{
     font-size: large;
 
 }
+
+@media (max-width: 400px) {
+  button {
+    width: 60px;
+    height: 60px;
+    margin: 6px;
+    font-size: 16px;
+  }
+input {
+    font-size: 20px;
+  }
+}
