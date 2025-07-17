@@ -99,3 +99,10 @@ input {
     font-size: 20px;
   }
 }
+
+.calculator a i {
+  font-size: 2rem;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 90%;
+}
